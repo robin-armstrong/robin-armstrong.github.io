@@ -17,9 +17,9 @@ With [Ian Grooms](https://www.colorado.edu/amath/grooms) ([CU Boulder Dept. of A
 
 For more information, please read our [preprint on arXiv](https://arxiv.org/abs/2503.00253), or this set of [slides](/files/slides_cse_2025.pdf).
 
-## Efficient Matrix Factorizations
+## Efficient Matrix Factorization
 
-With [Anil Damle](https://www.cs.cornell.edu/~damle) at Cornell, I developed an algorithm for efficiently computing column-pivoted QR (CPQR) factorizations of extremely large matrices. It is challenging to compute a CPQR factorization in a manner that takes advantage of BLAS-3 optimizations in core matrix-matrix products routines. Whereas most existing solutions to this problem target matrices with far more rows than columns, our algorithm targets the opposite situation: matrices with far more columns than rows. Matrices of this sort appear in scientific applications related to data clustering, model reduction, and computational chemistry. For a wide class of matrices arising in these domains, our algorithm runs significantly faster than the standard GEQP3 algorithm.
+With [Anil Damle](https://www.cs.cornell.edu/~damle) at Cornell, I developed an algorithm for efficiently computing column-pivoted QR (CPQR) factorizations of extremely large matrices. It is challenging to compute a CPQR factorization in a manner that takes advantage of BLAS-3 optimizations in core matrix-matrix products routines. Whereas most existing solutions to this problem target matrices with far more rows than columns, our algorithm targets the opposite situation: matrices with far more columns than rows. Matrices of this sort appear in scientific applications related to data clustering, model reduction, and computational chemistry. For a wide class of matrices arising in these domains, our algorithm runs significantly faster than the standard GEQP3.
 
 For more information, please read our [preprint on arXiv](https://arxiv.org/abs/2501.18035), or these [slides](/files/slides_midatlanticna_2025.pdf). This work has also been submitted to the SIAM Journal on Scientific Computing.
 

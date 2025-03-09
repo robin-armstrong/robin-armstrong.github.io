@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
+theme                    : jekyll-theme-minimal
 title                    : "Robin Armstrong"
 title_separator          : "-"
 name                     : &name "Robin Armstrong"
