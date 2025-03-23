@@ -15,7 +15,7 @@ In joint work with [Anil Damle](https://www.cs.cornell.edu/~damle) and [Sam Otto
 
 With [Ian Grooms](https://www.colorado.edu/amath/grooms) ([CU Boulder Dept. of Applied Mathematics](https://www.colorado.edu/amath/)), I developed an ensemble Kalman filtering algorithm which uses techniques from numerical quadrature and Krylov subspace iteration to update the ensemble from prior to posterior under a localized forecast covariance matrix. Compared to most existing methods, this algorithm achieves a more favorable trade-off between accuracy and cost when the system being modeled is extremely high-dimensional. With [Chris Snyder](https://www.mmm.ucar.edu/about/people/chris-snyder) ([NSF NCAR Mesoscale and Microscale Meteorology](https://www.mmm.ucar.edu/)), we have also been working to implement and test this algorithm on a full-scale forecasting problem using [MPAS](https://ncar.ucar.edu/what-we-offer/models/model-prediction-across-scales-mpas) and [JEDI](https://www.jcsda.org/jcsda-project-jedi).
 
-For more information, please read our [preprint on arXiv](https://arxiv.org/abs/2503.00253), or this set of [slides](/files/slides_cse_2025.pdf).
+For more information, please read our [preprint on arXiv](https://arxiv.org/abs/2503.00253), or this set of [slides](/files/slides_isda_2025.pdf).
 
 ## Efficient Matrix Factorization
 
