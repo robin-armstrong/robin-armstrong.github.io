@@ -13,8 +13,8 @@ My research develops mathematical theory and numerical methods for synthesizing 
 
 # Publications and Preprints
 
-- R. Armstrong and I. Grooms, "Data Assimilation With An Integral-Form Ensemble Square-Root Filter," 2025 [https://arxiv.org/abs/2503.00253](https://arxiv.org/abs/2503.00253).
+- R. Armstrong and I. Grooms, "Data Assimilation With An Integral-Form Ensemble Square-Root Filter," 2025 [https://arxiv.org/abs/2503.00253](https://arxiv.org/abs/2503.00253) (submitted to the _Journal of Computational Physics_).
 
-- R. Armstrong and A. Damle, "Collect, Commit, Expand: Efficient CPQR-Based Column Selection for Extremely Wide Matrices," 2025 [https://arxiv.org/abs/2501.18035](https://arxiv.org/abs/2501.18035) (submitted to _SIAM Journal on Scientific Computing_).
+- R. Armstrong and A. Damle, "Collect, Commit, Expand: Efficient CPQR-Based Column Selection for Extremely Wide Matrices," 2025 [https://arxiv.org/abs/2501.18035](https://arxiv.org/abs/2501.18035) (submitted to the _SIAM Journal on Scientific Computing_).
 
-- R. Armstrong, A. Buzali, and A. Damle, "Structure-Aware Analyses and Algorithms for Interpolative Decompositions," 2023 [https://arxiv.org/abs/2310.09452](https://arxiv.org/abs/2310.09452) (to appear in _SIAM Journal on Scientific Computing_).
+- R. Armstrong, A. Buzali, and A. Damle, "Structure-Aware Analyses and Algorithms for Interpolative Decompositions," 2023 [https://arxiv.org/abs/2310.09452](https://arxiv.org/abs/2310.09452) (to appear in the _SIAM Journal on Scientific Computing_).
