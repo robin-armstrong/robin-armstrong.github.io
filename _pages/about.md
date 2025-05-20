@@ -17,4 +17,4 @@ My research develops mathematical theory and numerical methods for synthesizing 
 
 - R. Armstrong and A. Damle, "Collect, Commit, Expand: Efficient CPQR-Based Column Selection for Extremely Wide Matrices," 2025 [https://arxiv.org/abs/2501.18035](https://arxiv.org/abs/2501.18035) (submitted to the _SIAM Journal on Scientific Computing_).
 
-- R. Armstrong, A. Buzali, and A. Damle, "Structure-Aware Analyses and Algorithms for Interpolative Decompositions," 2023 [https://arxiv.org/abs/2310.09452](https://arxiv.org/abs/2310.09452) (to appear in the _SIAM Journal on Scientific Computing_).
+- R. Armstrong, A. Buzali, and A. Damle, "Structure-Aware Analyses and Algorithms for Interpolative Decompositions," _SIAM Journal on Scientific Computing_, 2025, 47 (3), A1527-A1554.
