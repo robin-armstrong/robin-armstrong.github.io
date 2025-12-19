@@ -11,7 +11,7 @@ redirect_from:
 
 In joint work with [Anil Damle](https://www.cs.cornell.edu/~damle) and [Sam Otto](https://www.engineering.cornell.edu/faculty-directory/sam-otto) at Cornell, I am working to develop ultra-low sample complexity methods for estimating covariance matrices associated with forecasts or climatologies of high dimensional dynamical systems. This work draws on techniques from covariance localization and hierarchically rank-structured matrix compression.
 
-For more information, please refer to this set of [slides](/files/slides_ilas_2025.pdf).
+For more information, please refer to this set of [slides](/files/slides_agu_2025.pdf).
 
 ## Numerical Methods for Data Assimilation
 
