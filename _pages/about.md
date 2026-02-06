@@ -11,6 +11,8 @@ I am a PhD candidate at Cornell University's [Center for Applied Mathematics](ht
 
 My research develops mathematical theory and numerical methods for synthesizing data-driven and physics-driven approaches to Earth systems modeling. This encompasses methods which use data to improve the forecasts of a physics-driven model (i.e., data assimilation), methods which use _a priori_ physical knowledge to regularize a data-driven model (e.g., structured covariance matrix estimation), and methods for building data-driven models that are physically interpretable (e.g., model order reduction). Because many Earth systems are extremely high-dimensional, computational efficiency is a central concern in my work. In this vein, much of my research has focused on designing and analyzing efficient computational primitives in randomized numerical linear algebra and low-rank approximation.
 
+Starting in August 2026, I will begin postdoctoral studies with professor [Melina Freitag](https://sites.google.com/view/melina-freitag) at the University of Potsdam [Institute for Mathematics](https://www.math.uni-potsdam.de/en). My research there will contribute to the [Collaborative Research Centre SFB 1294](https://www.sfb1294.de/) on data assimilation.
+
 # Publications and Preprints
 
 - R. Armstrong and I. Grooms, "Data Assimilation With An Integral-Form Ensemble Square-Root Filter," _Journal of Computational Physics_, 2025, 543, 114413 [[JCP online]](https://doi.org/10.1016/j.jcp.2025.114413) [[arXiv]](https://arxiv.org/abs/2503.00253).
