@@ -17,6 +17,6 @@ In August 2026, I will begin postdoctoral studies with professor [Melina Freitag
 
 - R. Armstrong and I. Grooms, "Data Assimilation With An Integral-Form Ensemble Square-Root Filter," _Journal of Computational Physics_, 2025, 543, 114413 [[JCP online]](https://doi.org/10.1016/j.jcp.2025.114413) [[arXiv]](https://arxiv.org/abs/2503.00253).
 
-- R. Armstrong and A. Damle, "Collect, Commit, Expand: Efficient CPQR-Based Column Selection for Extremely Wide Matrices," arXiv:2501.18035, 2025 [[arXiv]](https://arxiv.org/abs/2501.18035) (under review in the _SIAM Journal on Scientific Computing_).
+- R. Armstrong and A. Damle, "Collect, Commit, Expand: Efficient CPQR-Based Column Selection for Extremely Wide Matrices," arXiv:2501.18035, 2025 [[arXiv]](https://arxiv.org/abs/2501.18035) (soon to appear in the _SIAM Journal on Scientific Computing_).
 
 - R. Armstrong, A. Buzali, and A. Damle, "Structure-Aware Analyses and Algorithms for Interpolative Decompositions," _SIAM Journal on Scientific Computing_, 2025, 47 (3), A1527-A1554 [[SIAM online]](https://doi.org/10.1137/23M1610811) [[arXiv]](https://arxiv.org/abs/2310.09452).
