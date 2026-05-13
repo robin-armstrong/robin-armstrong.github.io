@@ -32,9 +32,9 @@ author:
   email            : "rja243@cornell.edu" 
 
   # Academic websites
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=rnPOsb6sWbwC&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0000-0001-6991-4730"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
