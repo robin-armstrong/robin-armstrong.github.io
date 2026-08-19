@@ -26,10 +26,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Robin Armstrong"
   pronouns         : # example: "she/her"  
-  bio              : "Applied Mathematics PhD Candidate"
-  employer         : "Cornell University"
-  location         : "Ithaca, New York, USA"
-  email            : "rja243@cornell.edu" 
+  bio              : "Postdoctoral Researcher and Lecturer"
+  employer         : "Universität Potsdam"
+  location         : "Potsdam, Germany"
+  email            : "robin.armstrong@uni-potsdam.de" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=rnPOsb6sWbwC&hl=en&oi=sra"
